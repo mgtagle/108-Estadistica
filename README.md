@@ -1,4 +1,6 @@
 # 108 Principos de Estadística
+## Dr. Marco Aurelio González Tagle
+
 Curso estadística Enero Junio 2020
 
 Lista de actividades del Curso 
@@ -7,12 +9,11 @@ Lista de actividades del Curso
   + :dart: Como configurar Git en windows, comandos a utilizar:
   
 
-```r Configurar Git:
-Abrir terminal de windowdos o mac
+```r 
+Configurar Git: Abrir terminal de windowdos o mac
+git --version
 git config --global user.name "Tu nombre"
 git config --global usuario.email "youremail@domain.com"
 ``` 
 
-  + Puedes apoyarte con el siguiente video
-  
-  [Git Tutorial](https://youtu.be/HVsySz-h9r4?t=238)
+  + Puedes apoyarte con el siguiente video: [Git Tutorial](https://youtu.be/HVsySz-h9r4?t=238)
