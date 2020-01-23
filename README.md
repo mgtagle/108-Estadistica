@@ -19,5 +19,5 @@ git config --global user.email "youremail@domain.com"
   + Puedes apoyarte con el siguiente video: [Git Tutorial](https://youtu.be/HVsySz-h9r4?t=238)
 
 + :paperclip: Clase 2: 23.01.2020
-
++ Primera Tarea del curso
 
