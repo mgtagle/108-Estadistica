@@ -20,4 +20,5 @@ git config --global user.email "youremail@domain.com"
 
 + :paperclip: Clase 2: 23.01.2020
 + Primera Tarea del curso
++ La fecha de entrega será el día 28.01 alas 23 horas
 
