@@ -13,7 +13,7 @@ Lista de actividades del Curso
 Configurar Git: Abrir terminal de windowdos o mac
 git --version
 git config --global user.name "Tu nombre"
-git config --global usuario.email "youremail@domain.com"
+git config --global user.email "youremail@domain.com"
 ``` 
 
   + Puedes apoyarte con el siguiente video: [Git Tutorial](https://youtu.be/HVsySz-h9r4?t=238)
