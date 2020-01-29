@@ -24,3 +24,4 @@ git config --global user.email "youremail@domain.com"
 
 + Clase 3: 29.01.2020
   + Instalar paquetería para R
+  + Más
