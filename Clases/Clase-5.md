@@ -8,3 +8,7 @@ La interpretación se puede observar en la siguiente imagen:
 
 
 
+![Interpretación][Campana]
+
+
+[Campana]: gauss02.jpg
