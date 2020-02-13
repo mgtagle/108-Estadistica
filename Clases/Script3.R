@@ -18,7 +18,11 @@ shapiro.test(conjunto$Altura)
 hist(conjunto$Diametro)
 shapiro.test(conjunto$Diametro)
 
+frecu<-table(conjunto$Clase)
+prop.table(frecu)
+frecu
 
+boxplot(conjunto$Diametro ~ conjunto$Especie, col="grey")
 # Prueba Homogeneidad ----------------------------------------------------
 
 var(conjunto$Diametro)
