@@ -37,7 +37,9 @@ git config --global user.email "youremail@domain.com"
 + :paperclip: Clase 6:06.02.2020
 
 + :paperclip: Clase 7:12.02.2020
-
+  + Pruebas de normalidad 
+  + Tablas de frecuencia
+  
 + :paperclip: Clase 8:13.02.2020
 
 + :paperclip: Clase 9:19.02.2020
