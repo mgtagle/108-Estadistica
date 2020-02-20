@@ -31,3 +31,18 @@ git config --global user.email "youremail@domain.com"
 + :paperclip: Clase 4:30.01.2020 (*Script 2*)
   + Importar base de datos de excel en formato *.csv*
   + Utilizar el comando *read.csv*
+
++ :paperclip: Clase 5:05.02.2020
+
++ :paperclip: Clase 6:06.02.2020
+
++ :paperclip: Clase 7:12.02.2020
+
++ :paperclip: Clase 8:13.02.2020
+
++ :paperclip: Clase 9:19.02.2020
+  + Histograsmas, barplots y estadísticas descriptivas
+  
++ :paperclip: Clase 10:20.02.2020
+  + Solución de Asignación 2
+  + Actualziar Github
