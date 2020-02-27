@@ -54,4 +54,4 @@ git config --global user.email "youremail@domain.com"
   
 + :paperclip: clase 12: Pruebas de T
   + BD Cedro Rojo pruebas de t  (una muestra)
-  
+  + Redacción de Hipotesis (nula y alternativa)
