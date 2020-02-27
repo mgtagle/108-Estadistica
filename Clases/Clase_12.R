@@ -1,6 +1,6 @@
 
 # Importar datos de CedroRojo ---------------------------------------------
-
+setwd("C:/Tareas/108-Estadistica/Clases")
 CR <- read.csv("CedroRojo.csv", header = T)
 
 
