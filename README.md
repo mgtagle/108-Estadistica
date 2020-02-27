@@ -48,3 +48,10 @@ git config --global user.email "youremail@domain.com"
 + :paperclip: Clase 10:20.02.2020
   + Solución de Asignación 2
   + Actualziar Github
+
++ :paperclip: clase 11: 26.02.2020
+  + Examen prueba 1
+  
++ :paperclip: clase 12: Pruebas de T
+  + BD Cedro Rojo pruebas de t  (una muestra)
+  
