@@ -57,4 +57,4 @@ git config --global user.email "youremail@domain.com"
   + :dart: Redacción de Hipotesis (nula y alternativa)
   
 + :paperclip: Clase 13: Pruebas de T
-  +BD Vivero prueba de t de dos muestras
+  + BD Vivero prueba de t de dos muestras
