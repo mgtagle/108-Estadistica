@@ -56,5 +56,5 @@ git config --global user.email "youremail@domain.com"
   + BD Cedro Rojo pruebas de t  (una muestra)
   + :dart: Redacción de Hipotesis (nula y alternativa)
   
-+ :paperclip: Clase 13: Pruebas de T
-  + BD Vivero prueba de t de dos muestras
++ :paperclip: Clase 13: Pruebas de T 
+  + BD Vivero prueba de t de dos muestras independientes
