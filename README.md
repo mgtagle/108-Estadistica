@@ -78,4 +78,10 @@ git config --global user.email "youremail@domain.com"
   + Utilización de pruebas lógicas y condicionantes
   + Link a video clase: [MS steram: Clase 19](https://web.microsoftstream.com/video/c387cbd0-f262-48fa-9e6d-c583fd50673f)
 
-+ :mx: Clase 05.05.2020 Asueto
++ :warning: Clase 05.05.2020 Asueto
+
++ :bookmark_tabs: Clase aula virtual 20: Correlación en Excel. :date: 06.05.2020
+  + Link a video clase: [Ms stream: Clase 20](https://web.microsoftstream.com/video/26ab8e10-3561-4e56-993d-5bb064df5489)
+
++ :school_satchel: Clase aula virtual 21: :date: 07.05.2020 
+  + Link a video clase: :construction:
