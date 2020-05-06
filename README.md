@@ -52,9 +52,9 @@ git config --global user.email "youremail@domain.com"
 + :paperclip: clase 11: 26.02.2020
   + Examen prueba 1
   
-+ :paperclip: clase 12: Pruebas de T
++ :paperclip: clase 12: Pruebas de T: 04.03.2020
   + BD Cedro Rojo pruebas de t  (una muestra)
   + :dart: Redacción de Hipotesis (nula y alternativa)
   
-+ :paperclip: Clase 13: Pruebas de T 
++ :paperclip: Clase 13: Pruebas de T : 05.03.2020
   + BD Vivero prueba de t de dos muestras independientes
