@@ -66,6 +66,15 @@ git config --global user.email "youremail@domain.com"
 
 + :dart: Receso por Contingencia de Salud: 16.03.2020:05.04.2020
 
-+ :bookmark_tabs: clase aula vitual: Pruebas de T en Excel.  22.04.2020
-  + Link a video clase: [MS stream:](https://web.microsoftstream.com/video/64308257-a406-4929-acd9-fe4e714f5dba) 
++ :bookmark_tabs: Clase aula vitual 16: Pruebas de T en Excel. :date: 22.04.2020
+  + Link a video clase: [MS stream: Clase 16](https://web.microsoftstream.com/video/64308257-a406-4929-acd9-fe4e714f5dba) 
+  
++ :bookmark_tabs: Clase aula virtual 17: Pruebas de T en Excel. :date: 23.04.2020
+  + Link a video clase: [MS stream: Clase 17](https://web.microsoftstream.com/video/e6bd06bf-c600-4756-bb93-acec915039d5)
+  
++ :round_pushpin: Clase aula virtual 18: Pruebas de T en Excel. :date: 29.04.2020
+  
++ :round_pushpin: Clase aula virtual 19: Prueba de T en Excel. :date: 30.04.2020
+  + Utilización de pruebas lógicas y condicionantes
+  + Link a video clase: [MS steram: Clase 19](https://web.microsoftstream.com/video/c387cbd0-f262-48fa-9e6d-c583fd50673f)
 
