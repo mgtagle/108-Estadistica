@@ -78,3 +78,4 @@ git config --global user.email "youremail@domain.com"
   + Utilización de pruebas lógicas y condicionantes
   + Link a video clase: [MS steram: Clase 19](https://web.microsoftstream.com/video/c387cbd0-f262-48fa-9e6d-c583fd50673f)
 
++ :mx: Clase 05.05.2020 Asueto
