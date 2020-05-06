@@ -67,4 +67,5 @@ git config --global user.email "youremail@domain.com"
 + :dart: Receso por Contingencia de Salud: 16.03.2020:05.04.2020
 
 + :bookmark_tabs: clase aula vitual: Pruebas de T en Excel.  22.04.2020
+  + Link a video clase: [MS stream:](https://web.microsoftstream.com/video/64308257-a406-4929-acd9-fe4e714f5dba) 
 
