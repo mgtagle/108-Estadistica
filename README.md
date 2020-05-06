@@ -62,6 +62,9 @@ git config --global user.email "youremail@domain.com"
   
 + :paperclip: Clase 14: Prueba de T: 11.03.2020
 
-+ :paperclip_: Clase 15: Ejercicios pruebas de T: 12.03.2020
++ :paperclip: Clase 15: Ejercicios pruebas de T: 12.03.2020
 
 + :dart: Receso por Contingencia de Salud: 16.03.2020:05.04.2020
+
++ :bookmark_tabs: clase aula vitual: Pruebas de T en Excel.  22.04.2020
+
