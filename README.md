@@ -20,7 +20,7 @@ git config --global user.email "youremail@domain.com"
 
 + :paperclip: Clase 2: 23.01.2020
 + Primera Tarea del curso
-+ La fecha de entrega será el día 28.01 alas 23 horas
++ La fecha de entrega será el día :date: 28.01  :alarm_clock: 23 horas
 
 + Clase 3: 29.01.2020 (*Script 1*)
   + Instalar paquetería para R
