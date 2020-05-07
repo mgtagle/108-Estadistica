@@ -84,7 +84,7 @@ git config --global user.email "youremail@domain.com"
   + Link a video clase: [Ms stream: Clase 20](https://web.microsoftstream.com/video/26ab8e10-3561-4e56-993d-5bb064df5489)
 
 + :school_satchel: Clase aula virtual 21: :date: 07.05.2020 
-  + Link a video clase: [Ms Stream: Clase21](https://web.microsoftstream.com/video/a0678a4a-dda4-4540-88b1-c152761893c4)
+  + Link a video clase: [Ms Stream: Clase 21](https://web.microsoftstream.com/video/a0678a4a-dda4-4540-88b1-c152761893c4)
   
 + :bookmark_tabs: Clase aula virtual 22: :date: 13.05.2020
   + :construction:
